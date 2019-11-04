@@ -1,0 +1,6 @@
+[package]
+name = "rust"
+version = "0.1.0"
+authors = ["Michael Köpf <michael.koepf@cognotekt.com>"]
+
+[dependencies]
