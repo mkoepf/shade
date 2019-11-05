@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.com/mkoepf/shade.svg?label=Rust&branch=master)](https://travis-ci.com/mkoepf/shade)
+[![Build Status](https://img.shields.io/travis/mkoepf/shade/master.svg?label=master)](https://travis-ci.com/mkoepf/shade)
+
+
 
 SHade
 =====
