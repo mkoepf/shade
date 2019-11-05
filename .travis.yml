@@ -1,0 +1,9 @@
+os: linux
+
+language: rust
+
+before_install:
+    - cd rust
+
+rust:
+    - stable
